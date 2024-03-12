@@ -1,0 +1,9 @@
+{
+  "name": "@brindacournoyer/blockchain-demo-simple",
+  "version": "1.0.0",
+  "description": "blockchain simple",
+  "main": "index.js",
+  "author": "@brindacournoyer",
+  "repository": "https://github.com/BrindaCournoyer/blockchain-demo-simple.git",
+  "license": "ISC"
+}
